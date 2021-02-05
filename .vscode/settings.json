@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "/home/sja/.pyenv/versions/flask/bin/python",
+    "python.linting.pylintEnabled": false,
+    "python.linting.prospectorEnabled": true,
+    "python.linting.enabled": true
+}
